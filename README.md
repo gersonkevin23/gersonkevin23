@@ -1,6 +1,6 @@
 ## Hey there
 
-I’m A senior React, Vue.JS, Laravel, and PHP Developer.
+I’m a senior React, Vue.JS, Laravel, and PHP Developer.
 
 ## What I do
 
