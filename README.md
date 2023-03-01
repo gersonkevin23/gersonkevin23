@@ -11,6 +11,6 @@ I have 8 years of experience designing, developing, and analyzing React, Vue.JS,
 I use the following programming languages, frameworks and tools.
 
 - PHP, Laravel Framework, Node.js.
-- Javascript, Typescript, React, Vue.JS, TailwindCSS, Livewire, Tall stack.
+- Javascript, Typescript, React, Next, Vue.JS, TailwindCSS, Livewire, Tall stack.
 - Serverless Framework (AWS, Node.js, DynamoDB, Cloudflare).
 - VSCode, Github, Bash, Docker.
